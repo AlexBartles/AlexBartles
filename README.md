@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Luma Reborn (Privte repository).
+
 🌱 I’m currently learning Java.
+
 📫 How to reach me: AlexB#7653 on Discord.
+
 😄 Pronouns: He/Him.
+
 ⚡ Fun fact: I am new to Java but im already very deep into rewriting the client that will be free!
 
 <!--
