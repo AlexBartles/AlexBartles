@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Luma Reborn (Privte repository).
+🔭 I’m currently working on Luma Reborn (Private repository).
+
+🔭 I’m also currently working on Nightmare-Remade which is a discord multitool!
 
 🌱 I’m currently learning Java.
 
