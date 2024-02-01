@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Artica Client (Private repository).
+🔭 I’m currently working on Arctic Client Reborn (Private repository).
 
 🌱 I’m currently learning Java.
 
-📫 How to reach me: AlexB#7653 on Discord.
+📫 How to reach me: _alexbartles on Discord.
 
 😄 Pronouns: He/Him.
 
