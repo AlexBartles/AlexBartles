@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Arctic Client Reborn (Private repository).
+🔭 I’m working on Arctic Client Reborn (Private repository) and pine. AI (Private repository).
 
 🌱 I’m currently learning Java.
 
@@ -8,7 +8,7 @@
 
 😄 Pronouns: He/Him.
 
-⚡ Fun fact: I am new to Java but im already very deep into rewriting the client that will be free!
+⚡ Fun fact: I am new to Java but I'm already very deep into rewriting the client that will be free!
 
 <!--
 **AlexBartles/AlexBartles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
