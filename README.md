@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+🔭 I’m working on Club Penguin Cheese - CPC (Private repository) and pine. AI (Private repository).
+
+🌱 I’m currently learning Java.
+
+📫 How to reach me: _alexbartles on Discord.
+
+😄 Pronouns: He/Him.
+
+⚡ Fun fact: CPC (Club Penguin Cheese) will be releasing very shortly! Join today at https://dsc.gg/club-penguin-cheese
+
+<!--### Hi there 👋
+
 🔭 I’m working on Arctic Client Reborn (Private repository) and pine. AI (Private repository).
 
 🌱 I’m currently learning Java.
